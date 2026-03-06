@@ -14,5 +14,10 @@ namespace Person
             LastName = lastNameValue;
             Age = ageValue;
         }
+
+        string FullName()
+        {
+            return LastName + ", " + FirstName;
+        }
     }
 }
