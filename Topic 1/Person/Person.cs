@@ -1,6 +1,6 @@
 using System;
 
-namespace Person
+namespace PersonClass
 {
     public class Person
     {
@@ -8,16 +8,28 @@ namespace Person
         string LastName { get; set; }
         int Age { get; set; }
 
-        Person(string firstNameValue, string lastNameValue, int ageValue)
+        public Person(string firstNameValue, string lastNameValue, int ageValue)
         {
             FirstName = firstNameValue;
             LastName = lastNameValue;
             Age = ageValue;
         }
 
-        string FullName()
+        public string FullName()
         {
             return LastName + ", " + FirstName;
+        }
+
+        public bool IsAdult()
+        {
+            if (Age >= 18)
+            {
+                return true;
+            } 
+            else
+            {
+                return false;
+            }
         }
     }
 }
