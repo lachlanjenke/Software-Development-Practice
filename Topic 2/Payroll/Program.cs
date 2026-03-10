@@ -32,20 +32,18 @@ class Program
 
 class Payroll {
     const double TAX_RATE = 0.2d;
-    private double hours;
-    private double rate;   
 
     public Payroll()
     {
-        hours = 0d;
-        rate = 0d;
+        Hours = 0d;
+        Rate = 0d;
     }
 
     public double CalculatePay()
     {
         double gross, tax, net;
 
-        gross = hours * rate;
+        gross = Hours * Rate;
         tax = gross * TAX_RATE;
         net = gross - tax;
 
@@ -54,7 +52,7 @@ class Payroll {
 
     public double Hours
     {
-        get { return hours; }
+        get;
         set
         {
             if(value < 0)
@@ -62,13 +60,13 @@ class Payroll {
                 throw new ArgumentException("Hours must be positive");
             }
 
-            hours = value;
+            field = value;
         }
     }
 
     public double Rate
     {
-        get { return rate; }
+        get;
         set
         {
             if(value < 0)
@@ -76,7 +74,7 @@ class Payroll {
                 throw new ArgumentException("Rate must be positive");
             }
 
-            rate = value;
+            field = value;
         }
     }
 }
