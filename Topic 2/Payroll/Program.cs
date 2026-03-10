@@ -4,7 +4,29 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Payroll payrollObj = new Payroll();
+        bool error = false;
+
+        try
+        {
+            payrollObj.Hours = -20.5d;
+            payrollObj.Rate = 32.2d;
+        }
+        catch(Exception e)
+        {
+            Console.WriteLine(e.Message);
+            error = true;
+        }
+        finally
+        {
+            if(!error)
+            {
+                Console.WriteLine("Hours is " + payrollObj.Hours + " and rate is " + payrollObj.Rate);
+                
+                double pay = payrollObj.CalculatePay();
+                Console.WriteLine("The pay is " + pay);
+            }
+        }
     }
 }
 
@@ -13,19 +35,14 @@ class Payroll {
     private double hours;
     private double rate;   
 
-    Payroll(double employeeHours, double employeeRate)
+    public Payroll()
     {
-        hours = employeeHours;
-        rate = employeeRate;
+        hours = 0d;
+        rate = 0d;
     }
 
     public double CalculatePay()
     {
-        if(hours < 0 || rate < 0)
-        {
-            throw new ArgumentException("Hours and Rate must be positive");
-        }
-
         double gross, tax, net;
 
         gross = hours * rate;
@@ -33,5 +50,33 @@ class Payroll {
         net = gross - tax;
 
         return net;
+    }
+
+    public double Hours
+    {
+        get { return hours; }
+        set
+        {
+            if(value < 0)
+            {
+                throw new ArgumentException("Hours must be positive");
+            }
+
+            hours = value;
+        }
+    }
+
+    public double Rate
+    {
+        get { return rate; }
+        set
+        {
+            if(value < 0)
+            {
+                throw new ArgumentException("Rate must be positive");
+            }
+
+            rate = value;
+        }
     }
 }
