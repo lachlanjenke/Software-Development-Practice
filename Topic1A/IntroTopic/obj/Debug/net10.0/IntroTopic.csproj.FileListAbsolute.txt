@@ -1,0 +1,15 @@
+/Users/lachlanjenke/Library/CloudStorage/OneDrive-UniversityofAdelaide/Semester 1 2026/Software Development Practice/Software-Development-Practice/Topic1A/IntroTopic/bin/Debug/net10.0/IntroTopic
+/Users/lachlanjenke/Library/CloudStorage/OneDrive-UniversityofAdelaide/Semester 1 2026/Software Development Practice/Software-Development-Practice/Topic1A/IntroTopic/bin/Debug/net10.0/IntroTopic.deps.json
+/Users/lachlanjenke/Library/CloudStorage/OneDrive-UniversityofAdelaide/Semester 1 2026/Software Development Practice/Software-Development-Practice/Topic1A/IntroTopic/bin/Debug/net10.0/IntroTopic.runtimeconfig.json
+/Users/lachlanjenke/Library/CloudStorage/OneDrive-UniversityofAdelaide/Semester 1 2026/Software Development Practice/Software-Development-Practice/Topic1A/IntroTopic/bin/Debug/net10.0/IntroTopic.dll
+/Users/lachlanjenke/Library/CloudStorage/OneDrive-UniversityofAdelaide/Semester 1 2026/Software Development Practice/Software-Development-Practice/Topic1A/IntroTopic/bin/Debug/net10.0/IntroTopic.pdb
+/Users/lachlanjenke/Library/CloudStorage/OneDrive-UniversityofAdelaide/Semester 1 2026/Software Development Practice/Software-Development-Practice/Topic1A/IntroTopic/obj/Debug/net10.0/IntroTopic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lachlanjenke/Library/CloudStorage/OneDrive-UniversityofAdelaide/Semester 1 2026/Software Development Practice/Software-Development-Practice/Topic1A/IntroTopic/obj/Debug/net10.0/IntroTopic.AssemblyInfoInputs.cache
+/Users/lachlanjenke/Library/CloudStorage/OneDrive-UniversityofAdelaide/Semester 1 2026/Software Development Practice/Software-Development-Practice/Topic1A/IntroTopic/obj/Debug/net10.0/IntroTopic.AssemblyInfo.cs
+/Users/lachlanjenke/Library/CloudStorage/OneDrive-UniversityofAdelaide/Semester 1 2026/Software Development Practice/Software-Development-Practice/Topic1A/IntroTopic/obj/Debug/net10.0/IntroTopic.csproj.CoreCompileInputs.cache
+/Users/lachlanjenke/Library/CloudStorage/OneDrive-UniversityofAdelaide/Semester 1 2026/Software Development Practice/Software-Development-Practice/Topic1A/IntroTopic/obj/Debug/net10.0/IntroTopic.sourcelink.json
+/Users/lachlanjenke/Library/CloudStorage/OneDrive-UniversityofAdelaide/Semester 1 2026/Software Development Practice/Software-Development-Practice/Topic1A/IntroTopic/obj/Debug/net10.0/IntroTopic.dll
+/Users/lachlanjenke/Library/CloudStorage/OneDrive-UniversityofAdelaide/Semester 1 2026/Software Development Practice/Software-Development-Practice/Topic1A/IntroTopic/obj/Debug/net10.0/refint/IntroTopic.dll
+/Users/lachlanjenke/Library/CloudStorage/OneDrive-UniversityofAdelaide/Semester 1 2026/Software Development Practice/Software-Development-Practice/Topic1A/IntroTopic/obj/Debug/net10.0/IntroTopic.pdb
+/Users/lachlanjenke/Library/CloudStorage/OneDrive-UniversityofAdelaide/Semester 1 2026/Software Development Practice/Software-Development-Practice/Topic1A/IntroTopic/obj/Debug/net10.0/IntroTopic.genruntimeconfig.cache
+/Users/lachlanjenke/Library/CloudStorage/OneDrive-UniversityofAdelaide/Semester 1 2026/Software Development Practice/Software-Development-Practice/Topic1A/IntroTopic/obj/Debug/net10.0/ref/IntroTopic.dll
