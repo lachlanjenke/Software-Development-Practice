@@ -1,0 +1,5 @@
+/Users/lachlanjenke/Library/CloudStorage/OneDrive-UniversityofAdelaide/Semester 1 2026/Software Development Practice/Software-Development-Practice/Topic1A/IntroTopic/bin/Debug/net10.0/linux-arm64/publish/IntroTopic
+/Users/lachlanjenke/Library/CloudStorage/OneDrive-UniversityofAdelaide/Semester 1 2026/Software Development Practice/Software-Development-Practice/Topic1A/IntroTopic/bin/Debug/net10.0/linux-arm64/publish/IntroTopic.dll
+/Users/lachlanjenke/Library/CloudStorage/OneDrive-UniversityofAdelaide/Semester 1 2026/Software Development Practice/Software-Development-Practice/Topic1A/IntroTopic/bin/Debug/net10.0/linux-arm64/publish/IntroTopic.deps.json
+/Users/lachlanjenke/Library/CloudStorage/OneDrive-UniversityofAdelaide/Semester 1 2026/Software Development Practice/Software-Development-Practice/Topic1A/IntroTopic/bin/Debug/net10.0/linux-arm64/publish/IntroTopic.runtimeconfig.json
+/Users/lachlanjenke/Library/CloudStorage/OneDrive-UniversityofAdelaide/Semester 1 2026/Software Development Practice/Software-Development-Practice/Topic1A/IntroTopic/bin/Debug/net10.0/linux-arm64/publish/IntroTopic.pdb
