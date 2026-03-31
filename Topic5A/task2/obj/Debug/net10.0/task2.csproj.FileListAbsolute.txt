@@ -1,0 +1,15 @@
+/Users/lachlanjenke/Library/CloudStorage/OneDrive-UniversityofAdelaide/Semester 1 2026/Software Development Practice/Software-Development-Practice/Topic5A/task2/bin/Debug/net10.0/task2
+/Users/lachlanjenke/Library/CloudStorage/OneDrive-UniversityofAdelaide/Semester 1 2026/Software Development Practice/Software-Development-Practice/Topic5A/task2/bin/Debug/net10.0/task2.deps.json
+/Users/lachlanjenke/Library/CloudStorage/OneDrive-UniversityofAdelaide/Semester 1 2026/Software Development Practice/Software-Development-Practice/Topic5A/task2/bin/Debug/net10.0/task2.runtimeconfig.json
+/Users/lachlanjenke/Library/CloudStorage/OneDrive-UniversityofAdelaide/Semester 1 2026/Software Development Practice/Software-Development-Practice/Topic5A/task2/bin/Debug/net10.0/task2.dll
+/Users/lachlanjenke/Library/CloudStorage/OneDrive-UniversityofAdelaide/Semester 1 2026/Software Development Practice/Software-Development-Practice/Topic5A/task2/bin/Debug/net10.0/task2.pdb
+/Users/lachlanjenke/Library/CloudStorage/OneDrive-UniversityofAdelaide/Semester 1 2026/Software Development Practice/Software-Development-Practice/Topic5A/task2/obj/Debug/net10.0/task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lachlanjenke/Library/CloudStorage/OneDrive-UniversityofAdelaide/Semester 1 2026/Software Development Practice/Software-Development-Practice/Topic5A/task2/obj/Debug/net10.0/task2.AssemblyInfoInputs.cache
+/Users/lachlanjenke/Library/CloudStorage/OneDrive-UniversityofAdelaide/Semester 1 2026/Software Development Practice/Software-Development-Practice/Topic5A/task2/obj/Debug/net10.0/task2.AssemblyInfo.cs
+/Users/lachlanjenke/Library/CloudStorage/OneDrive-UniversityofAdelaide/Semester 1 2026/Software Development Practice/Software-Development-Practice/Topic5A/task2/obj/Debug/net10.0/task2.csproj.CoreCompileInputs.cache
+/Users/lachlanjenke/Library/CloudStorage/OneDrive-UniversityofAdelaide/Semester 1 2026/Software Development Practice/Software-Development-Practice/Topic5A/task2/obj/Debug/net10.0/task2.sourcelink.json
+/Users/lachlanjenke/Library/CloudStorage/OneDrive-UniversityofAdelaide/Semester 1 2026/Software Development Practice/Software-Development-Practice/Topic5A/task2/obj/Debug/net10.0/task2.dll
+/Users/lachlanjenke/Library/CloudStorage/OneDrive-UniversityofAdelaide/Semester 1 2026/Software Development Practice/Software-Development-Practice/Topic5A/task2/obj/Debug/net10.0/refint/task2.dll
+/Users/lachlanjenke/Library/CloudStorage/OneDrive-UniversityofAdelaide/Semester 1 2026/Software Development Practice/Software-Development-Practice/Topic5A/task2/obj/Debug/net10.0/task2.pdb
+/Users/lachlanjenke/Library/CloudStorage/OneDrive-UniversityofAdelaide/Semester 1 2026/Software Development Practice/Software-Development-Practice/Topic5A/task2/obj/Debug/net10.0/task2.genruntimeconfig.cache
+/Users/lachlanjenke/Library/CloudStorage/OneDrive-UniversityofAdelaide/Semester 1 2026/Software Development Practice/Software-Development-Practice/Topic5A/task2/obj/Debug/net10.0/ref/task2.dll
