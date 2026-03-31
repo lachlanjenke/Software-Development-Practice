@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/lachlanjenke/Library/CloudStorage/OneDrive-UniversityofAdelaide/Semester 1 2026/Software Development Practice/Software-Development-Practice/Topic1A/IntroTopic/IntroTopic.csproj": {}
+    "/Users/lachlanjenke/Library/CloudStorage/OneDrive-UniversityofAdelaide/Semester 1 2026/Software Development Practice/Software-Development-Practice/Topic1B/ToDoApp/ToDoApp.csproj": {}
   },
   "projects": {
-    "/Users/lachlanjenke/Library/CloudStorage/OneDrive-UniversityofAdelaide/Semester 1 2026/Software Development Practice/Software-Development-Practice/Topic1A/IntroTopic/IntroTopic.csproj": {
+    "/Users/lachlanjenke/Library/CloudStorage/OneDrive-UniversityofAdelaide/Semester 1 2026/Software Development Practice/Software-Development-Practice/Topic1B/ToDoApp/ToDoApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lachlanjenke/Library/CloudStorage/OneDrive-UniversityofAdelaide/Semester 1 2026/Software Development Practice/Software-Development-Practice/Topic1A/IntroTopic/IntroTopic.csproj",
-        "projectName": "IntroTopic",
-        "projectPath": "/Users/lachlanjenke/Library/CloudStorage/OneDrive-UniversityofAdelaide/Semester 1 2026/Software Development Practice/Software-Development-Practice/Topic1A/IntroTopic/IntroTopic.csproj",
+        "projectUniqueName": "/Users/lachlanjenke/Library/CloudStorage/OneDrive-UniversityofAdelaide/Semester 1 2026/Software Development Practice/Software-Development-Practice/Topic1B/ToDoApp/ToDoApp.csproj",
+        "projectName": "ToDoApp",
+        "projectPath": "/Users/lachlanjenke/Library/CloudStorage/OneDrive-UniversityofAdelaide/Semester 1 2026/Software Development Practice/Software-Development-Practice/Topic1B/ToDoApp/ToDoApp.csproj",
         "packagesPath": "/Users/lachlanjenke/.nuget/packages/",
-        "outputPath": "/Users/lachlanjenke/Library/CloudStorage/OneDrive-UniversityofAdelaide/Semester 1 2026/Software Development Practice/Software-Development-Practice/Topic1A/IntroTopic/obj/",
+        "outputPath": "/Users/lachlanjenke/Library/CloudStorage/OneDrive-UniversityofAdelaide/Semester 1 2026/Software Development Practice/Software-Development-Practice/Topic1B/ToDoApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/lachlanjenke/.nuget/NuGet/NuGet.Config"
